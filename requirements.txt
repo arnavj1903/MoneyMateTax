@@ -1,0 +1,9 @@
+Flask
+Flask-Cors
+pandas
+google-generativeai
+nltk
+python-dotenv
+faiss-cpu
+openpyxl
+waitress
